@@ -1,0 +1,83 @@
+{
+  "LOG": {
+    "resumo": {
+      "ABRIL": [
+        "Produção - Timon",
+        "Produção - Presidente Dutra",
+        "Produção - Carolina",
+        "Lucratividade - Gerente"
+      ],
+      "MAIO": [
+        "Lucratividade - Gerente"
+      ],
+      "JUNHO": [
+        "Produção - Timon",
+        "Lucratividade - Gerente"
+      ]
+    },
+    "colaboradores": {
+      "ABRIL": {
+        "vistoriadores": [
+          "ANDERSON RIBEIRO DE SOUSA",
+          "ARTUR BRANDÃO NUNES",
+          "DAUTON BASTOS CIRQUEIRA COSTA",
+          "DENISSON DE MELO LOPES",
+          "FRANCYCARLOS GAIOSO PINTO",
+          "LUIS EDUARDO LIMA PINHEIRO",
+          "MARLYSON LEANDRO SOUSA MENDES",
+          "OTÁVIO WANDERLEY SANTOS FERREIRA",
+          "ADRIELE REIS DA COSTA",
+          "GELLYCA QUIRINO CARVALHO DE LACERDA",
+          "ISAAC FIGUEREDO AGUIAR",
+          "ADONIELSON MORAIS PENHA",
+          "FÁBIO BARBOSA DA SILVA",
+          "FARISTON DE SOUSA FEITOSA",
+          "JEAN VIEIRA CARDOSO",
+          "FAGNER JOSÉ DE ANDRADE SILVA",
+          "PEDRO HENRIQUE FERREIRA DE SOUSA",
+          "TIAGO ALVES DOS REIS MARTINS"
+        ],
+        "supervisores": [
+          "ELEILSON DE SOUSA ADELINO"
+        ],
+        "gerentes": [
+          "CARLOS HELANO FERREIRA DE CARVALHO"
+        ]
+      },
+      "MAIO": {
+        "vistoriadores": [
+          "DAUTON BASTOS CIRQUEIRA COSTA",
+          "FRANCYCARLOS GAIOSO PINTO",
+          "MARLYSON LEANDRO SOUSA MENDES",
+          "OTÁVIO WANDERLEY SANTOS FERREIRA",
+          "ADRIELE REIS DA COSTA",
+          "GELLYCA QUIRINO CARVALHO DE LACERDA",
+          "ADONIELSON MORAIS PENHA",
+          "FÁBIO BARBOSA DA SILVA",
+          "JEAN VIEIRA CARDOSO",
+          "JOÃO VICTOR ANDRADE SILVA"
+        ],
+        "supervisores": [],
+        "gerentes": [
+          "CARLOS HELANO FERREIRA DE CARVALHO"
+        ]
+      },
+      "JUNHO": {
+        "vistoriadores": [
+          "DAUTON BASTOS CIRQUEIRA COSTA",
+          "MARLYSON LEANDRO SOUSA MENDES",
+          "RAYLSON AUGUSTO DINIZ PINTO",
+          "ADRIELE REIS DA COSTA",
+          "FÁBIO BARBOSA DA SILVA",
+          "JEAN VIEIRA CARDOSO"
+        ],
+        "supervisores": [
+          "ELEILSON DE SOUSA ADELINO"
+        ],
+        "gerentes": [
+          "CARLOS HELANO FERREIRA DE CARVALHO"
+        ]
+      }
+    }
+  }
+}
